@@ -7,7 +7,8 @@
     <Copyright>Copyright 2017-2018 Amazon.com, Inc. or its affiliates. All Rights Reserved.</Copyright>
     <AssemblyVersion>2.7.3.0</AssemblyVersion>
     <FileVersion>2.7.3.0</FileVersion>
-    <Version>2.7.3</Version>
+	<PackageId>scott.munro.AWSXRayRecorder.Handlers.SqlServer</PackageId>
+    <Version>2.7.4</Version>
     <RootNamespace>Amazon.XRay.Recorder.Handlers.SqlServer</RootNamespace>
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>../../../../buildtools/local-development.snk</AssemblyOriginatorKeyFile>

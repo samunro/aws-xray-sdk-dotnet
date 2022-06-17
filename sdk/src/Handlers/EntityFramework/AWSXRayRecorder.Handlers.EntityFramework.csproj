@@ -7,7 +7,8 @@
     <Copyright>Copyright 2017-2020 Amazon.com, Inc. or its affiliates. All Rights Reserved.</Copyright>
     <AssemblyVersion>1.1.1.0</AssemblyVersion>
     <FileVersion>1.1.1.0</FileVersion>
-    <Version>1.1.1</Version>
+	<PackageId>scott.munro.AWSXRayRecorder.Handlers.EntityFramework</PackageId>
+    <Version>1.1.2</Version>
     <AssemblyName>AWSXRayRecorder.Handlers.EntityFramework</AssemblyName>
     <RootNamespace>Amazon.XRay.Recorder.Handlers.EntityFramework</RootNamespace>
     <Authors>Amazon Web Services</Authors>
